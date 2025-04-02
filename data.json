@@ -51,7 +51,7 @@
   },
   {
     "id": 6,
-    "category": "produits en saumure",
+    "category": "produit_en_saumure",
     "image": "src/public/pic_articles/image6.png",
     "name": "halawa el bourj extra - pistache 350 g *12",
     "reference": 100087,
@@ -61,7 +61,7 @@
   },
   {
     "id": 7,
-    "category": "arome",
+    "category": "aromes",
     "image": "src/public/pic_articles/image7.png",
     "name": "halawa el bourj extra - pistache 700 g *6",
     "reference": 100088,
@@ -121,7 +121,7 @@
   },
   {
     "id": 13,
-    "category": "condiment et sauce",
+    "category": "condiments_et_sauces",
     "image": "src/public/pic_articles/image13.png",
     "name": "baladna halva 6*1800g",
     "reference": 100094,
@@ -141,7 +141,7 @@
   },
   {
     "id": 15,
-    "category": "condiment et sauce",
+    "category": "condiments_et_sauces",
     "image": "src/public/pic_articles/image15.png",
     "name": "Tiba halva nature 400gr*12",
     "reference": 100095,
@@ -5381,7 +5381,7 @@
   },
   {
     "id": 539,
-    "category": "fruits secs",
+    "category": "fruits_secs",
     "image": "src/public/pic_articles/image539.png",
     "name": "durra houmous extra Tahina 220g*48",
     "reference": 1272,
@@ -5391,7 +5391,7 @@
   },
   {
     "id": 540,
-    "category": "fruits secs",
+    "category": "fruits_secs",
     "image": "src/public/pic_articles/image540.png",
     "name": "Tamarins faikom",
     "reference": 1288,
@@ -5401,7 +5401,7 @@
   },
   {
     "id": 541,
-    "category": "fruits secs",
+    "category": "fruits_secs",
     "image": "src/public/pic_articles/image541.png",
     "name": "Thym baladna 400 g /12/",
     "reference": 13746,
@@ -5411,7 +5411,7 @@
   },
   {
     "id": 542,
-    "category": "fruits secs",
+    "category": "fruits_secs",
     "image": "src/public/pic_articles/image542.png",
     "name": "Thym baladna 400 g /12/",
     "reference": 13747,
@@ -5421,7 +5421,7 @@
   },
   {
     "id": 543,
-    "category": "fruits secs",
+    "category": "fruits_secs",
     "image": "src/public/pic_articles/image543.png",
     "name": "foul moudamas nature hadaiq shatoura 475g*24pieces",
     "reference": 13748,
@@ -5431,7 +5431,7 @@
   },
   {
     "id": 544,
-    "category": "fruits secs",
+    "category": "fruits_secs",
     "image": "src/public/pic_articles/image544.png",
     "name": "foul moudamas epice hadaiq shatoura 400g*24pieces",
     "reference": 13749,
@@ -5441,7 +5441,7 @@
   },
   {
     "id": 545,
-    "category": "fruits secs",
+    "category": "fruits_secs",
     "image": "src/public/pic_articles/image545.png",
     "name": "foul moudamas cumin hadaiq shatoura 400g*24pieces",
     "reference": 13750,
@@ -5451,7 +5451,7 @@
   },
   {
     "id": 546,
-    "category": "fruits secs",
+    "category": "fruits_secs",
     "image": "src/public/pic_articles/image546.png",
     "name": "foul moudamas libanais hadaiq shatoura 400g*24pieces",
     "reference": 13751,
@@ -5461,7 +5461,7 @@
   },
   {
     "id": 547,
-    "category": "fruits secs",
+    "category": "fruits_secs",
     "image": "src/public/pic_articles/image547.png",
     "name": "foul moudamas avec pois chiches bouillis hadaiq shatoura 475g*24pieces",
     "reference": 13752,
@@ -5471,7 +5471,7 @@
   },
   {
     "id": 548,
-    "category": "fruits secs",
+    "category": "fruits_secs",
     "image": "src/public/pic_articles/image548.png",
     "name": "foul moudamas syrien hadaiq shatoura 400g*24pieces",
     "reference": 13753,
@@ -5481,7 +5481,7 @@
   },
   {
     "id": 549,
-    "category": "fruits secs",
+    "category": "fruits_secs",
     "image": "src/public/pic_articles/image549.png",
     "name": "foul moudamas aleppin hadaiq shatoura 400g*24pieces",
     "reference": 13754,
@@ -5491,7 +5491,7 @@
   },
   {
     "id": 550,
-    "category": "fruits secs",
+    "category": "fruits_secs",
     "image": "src/public/pic_articles/image550.png",
     "name": "foul moudamas palestinien 400g*24pieces",
     "reference": 13755,
@@ -5501,7 +5501,7 @@
   },
   {
     "id": 551,
-    "category": "fruits secs",
+    "category": "fruits_secs",
     "image": "src/public/pic_articles/image551.png",
     "name": "foul moudamas kurde hadaiq shatoura 400g*24pieces",
     "reference": 13756,
@@ -5511,7 +5511,7 @@
   },
   {
     "id": 552,
-    "category": "fruits secs",
+    "category": "fruits_secs",
     "image": "src/public/pic_articles/image552.png",
     "name": "foul bagila hadaiq shatoura 400g*24pieces",
     "reference": 13757,
@@ -5521,7 +5521,7 @@
   },
   {
     "id": 553,
-    "category": "fruits secs",
+    "category": "fruits_secs",
     "image": "src/public/pic_articles/image553.png",
     "name": "houmous tahini hadaiq shatoura 185g*24pieces",
     "reference": 13758,
@@ -5531,7 +5531,7 @@
   },
   {
     "id": 554,
-    "category": "fruits secs",
+    "category": "fruits_secs",
     "image": "src/public/pic_articles/image554.png",
     "name": "houmous tahini hadaiq shatoura 430g*24pieces",
     "reference": 13759,
@@ -5541,7 +5541,7 @@
   },
   {
     "id": 555,
-    "category": "fruits secs",
+    "category": "fruits_secs",
     "image": "src/public/pic_articles/image555.png",
     "name": "houmous tahini hadaiq shatoura 430g*24pieces",
     "reference": 13759,
@@ -5551,7 +5551,7 @@
   },
   {
     "id": 556,
-    "category": "fruits secs",
+    "category": "fruits_secs",
     "image": "src/public/pic_articles/image556.png",
     "name": "baba ghanoush hadaiq shatoura 185g*24pieces",
     "reference": 13760,
@@ -5561,7 +5561,7 @@
   },
   {
     "id": 557,
-    "category": "fruits secs",
+    "category": "fruits_secs",
     "image": "src/public/pic_articles/image557.png",
     "name": "baba ghanoush hadaiq shatoura 370g*24pieces",
     "reference": 13761,
@@ -5571,7 +5571,7 @@
   },
   {
     "id": 558,
-    "category": "fruits secs",
+    "category": "fruits_secs",
     "image": "src/public/pic_articles/image558.png",
     "name": "sirop de grenade en verre hadaiq shatoura 210+500ml promo*12pieces",
     "reference": 13762,
@@ -5581,7 +5581,7 @@
   },
   {
     "id": 559,
-    "category": "fruits secs",
+    "category": "fruits_secs",
     "image": "src/public/pic_articles/image559.png",
     "name": "Thym al nasser 400 g /30/",
     "reference": 13763,
@@ -5591,7 +5591,7 @@
   },
   {
     "id": 560,
-    "category": "fruits secs",
+    "category": "fruits_secs",
     "image": "src/public/pic_articles/image560.png",
     "name": "hummus",
     "reference": 13764,
@@ -5601,7 +5601,7 @@
   },
   {
     "id": 561,
-    "category": "fruits secs",
+    "category": "fruits_secs",
     "image": "src/public/pic_articles/image561.png",
     "name": "hummus",
     "reference": 13765,
@@ -5611,7 +5611,7 @@
   },
   {
     "id": 562,
-    "category": "fruits secs",
+    "category": "fruits_secs",
     "image": "src/public/pic_articles/image562.png",
     "name": "hummus",
     "reference": 13765,
@@ -5621,7 +5621,7 @@
   },
   {
     "id": 563,
-    "category": "fruits secs",
+    "category": "fruits_secs",
     "image": "src/public/pic_articles/image563.png",
     "name": "dance",
     "reference": 13768,
@@ -5631,7 +5631,7 @@
   },
   {
     "id": 564,
-    "category": "fruits secs",
+    "category": "fruits_secs",
     "image": "src/public/pic_articles/image564.png",
     "name": "Twist",
     "reference": 13769,
@@ -5641,7 +5641,7 @@
   },
   {
     "id": 565,
-    "category": "fruits secs",
+    "category": "fruits_secs",
     "image": "src/public/pic_articles/image565.png",
     "name": "foul medammas nature hena 400g *24 pieces",
     "reference": 13770,
@@ -5651,7 +5651,7 @@
   },
   {
     "id": 566,
-    "category": "fruits secs",
+    "category": "fruits_secs",
     "image": "src/public/pic_articles/image566.png",
     "name": "creme fouettee puck *48 175 g",
     "reference": 13771,
@@ -5661,7 +5661,7 @@
   },
   {
     "id": 567,
-    "category": "fruits secs",
+    "category": "fruits_secs",
     "image": "src/public/pic_articles/image567.png",
     "name": "puck fromage 240 g",
     "reference": 13772,
@@ -5671,7 +5671,7 @@
   },
   {
     "id": 568,
-    "category": "fruits secs",
+    "category": "fruits_secs",
     "image": "src/public/pic_articles/image568.png",
     "name": "puck fromage 500 g",
     "reference": 13773,
@@ -5681,7 +5681,7 @@
   },
   {
     "id": 569,
-    "category": "fruits secs",
+    "category": "fruits_secs",
     "image": "src/public/pic_articles/image569.png",
     "name": "puck fromage 910 g",
     "reference": 13774,
@@ -5691,7 +5691,7 @@
   },
   {
     "id": 570,
-    "category": "fruits secs",
+    "category": "fruits_secs",
     "image": "src/public/pic_articles/image570.png",
     "name": "lait concentre nestle 397 g",
     "reference": 13775,
@@ -5701,7 +5701,7 @@
   },
   {
     "id": 571,
-    "category": "fruits secs",
+    "category": "fruits_secs",
     "image": "src/public/pic_articles/image571.png",
     "name": "creme fouettee nestle 170 g",
     "reference": 13776,
@@ -5711,7 +5711,7 @@
   },
   {
     "id": 572,
-    "category": "fruits secs",
+    "category": "fruits_secs",
     "image": "src/public/pic_articles/image572.png",
     "name": "sauce iraq amba 310 g",
     "reference": 13777,
@@ -5721,7 +5721,7 @@
   },
   {
     "id": 573,
-    "category": "fruits secs",
+    "category": "fruits_secs",
     "image": "src/public/pic_articles/image573.png",
     "name": "sauce iraq familiale 325 g",
     "reference": 13778,
@@ -5731,7 +5731,7 @@
   },
   {
     "id": 574,
-    "category": "fruits secs",
+    "category": "fruits_secs",
     "image": "src/public/pic_articles/image574.png",
     "name": "sauce iraq familiale 325 g",
     "reference": 13778,
@@ -5741,7 +5741,7 @@
   },
   {
     "id": 575,
-    "category": "fruits secs",
+    "category": "fruits_secs",
     "image": "src/public/pic_articles/image575.png",
     "name": "oncu sauce Tomato",
     "reference": 13779,
@@ -5751,7 +5751,7 @@
   },
   {
     "id": 576,
-    "category": "fruits secs",
+    "category": "fruits_secs",
     "image": "src/public/pic_articles/image576.png",
     "name": "durra marmelad(6*1) erdbeeren",
     "reference": 13781,
@@ -5761,7 +5761,7 @@
   },
   {
     "id": 577,
-    "category": "fruits secs",
+    "category": "fruits_secs",
     "image": "src/public/pic_articles/image577.png",
     "name": "... ...... 500.*20",
     "reference": 13784,
@@ -5771,7 +5771,7 @@
   },
   {
     "id": 578,
-    "category": "fruits secs",
+    "category": "fruits_secs",
     "image": "src/public/pic_articles/image578.png",
     "name": "... ...... .... 1*100",
     "reference": 13785,
@@ -5781,7 +5781,7 @@
   },
   {
     "id": 579,
-    "category": "fruits secs",
+    "category": "fruits_secs",
     "image": "src/public/pic_articles/image579.png",
     "name": ".... .... 400 .*24",
     "reference": 13786,
@@ -5791,7 +5791,7 @@
   },
   {
     "id": 580,
-    "category": "fruits secs",
+    "category": "fruits_secs",
     "image": "src/public/pic_articles/image580.png",
     "name": ".... ...... ...... 800.*12",
     "reference": 13787,
@@ -5801,7 +5801,7 @@
   },
   {
     "id": 581,
-    "category": "fruits secs",
+    "category": "fruits_secs",
     "image": "src/public/pic_articles/image581.png",
     "name": ".... ....... ...... 1600.",
     "reference": 13788,
@@ -5811,7 +5811,7 @@
   },
   {
     "id": 582,
-    "category": "fruits secs",
+    "category": "fruits_secs",
     "image": "src/public/pic_articles/image582.png",
     "name": ".. ..... 1..*10",
     "reference": 13789,
@@ -5821,7 +5821,7 @@
   },
   {
     "id": 583,
-    "category": "fruits secs",
+    "category": "fruits_secs",
     "image": "src/public/pic_articles/image583.png",
     "name": ".. ..... 1..*10",
     "reference": 13789,
@@ -5831,7 +5831,7 @@
   },
   {
     "id": 584,
-    "category": "fruits secs",
+    "category": "fruits_secs",
     "image": "src/public/pic_articles/image584.png",
     "name": ".. ..... ... .... 48*1",
     "reference": 13790,
@@ -5841,7 +5841,7 @@
   },
   {
     "id": 585,
-    "category": "fruits secs",
+    "category": "fruits_secs",
     "image": "src/public/pic_articles/image585.png",
     "name": ".... .... 500.*10*4",
     "reference": 13791,
@@ -5851,7 +5851,7 @@
   },
   {
     "id": 586,
-    "category": "fruits secs",
+    "category": "fruits_secs",
     "image": "src/public/pic_articles/image586.png",
     "name": "houmous e la tahini stoura (mouhbel 850g)",
     "reference": 13793,
@@ -5861,7 +5861,7 @@
   },
   {
     "id": 587,
-    "category": "fruits secs",
+    "category": "fruits_secs",
     "image": "src/public/pic_articles/image587.png",
     "name": "molasses de piment morning 5kg offre *5",
     "reference": 13794,
@@ -5871,7 +5871,7 @@
   },
   {
     "id": 588,
-    "category": "fruits secs",
+    "category": "fruits_secs",
     "image": "src/public/pic_articles/image588.png",
     "name": "molasses de piment morning 5kg offre *5",
     "reference": 13794,
@@ -5881,7 +5881,7 @@
   },
   {
     "id": 589,
-    "category": "fruits secs",
+    "category": "fruits_secs",
     "image": "src/public/pic_articles/image589.png",
     "name": "Vanille al-reem 50 sachets",
     "reference": 13795,
@@ -6081,7 +6081,7 @@
   },
   {
     "id": 609,
-    "category": "lait en poudre",
+    "category": "lait_en_poudre",
     "image": "src/public/pic_articles/image609.png",
     "name": "happy cow 113g *30",
     "reference": 13810,
@@ -6091,7 +6091,7 @@
   },
   {
     "id": 610,
-    "category": "lait en poudre",
+    "category": "lait_en_poudre",
     "image": "src/public/pic_articles/image610.png",
     "name": "happy cow 113g *30",
     "reference": 13811,
@@ -6101,7 +6101,7 @@
   },
   {
     "id": 611,
-    "category": "lait en poudre",
+    "category": "lait_en_poudre",
     "image": "src/public/pic_articles/image611.png",
     "name": "happy cow 2k*10",
     "reference": 13812,
@@ -6111,7 +6111,7 @@
   },
   {
     "id": 612,
-    "category": "lait en poudre",
+    "category": "lait_en_poudre",
     "image": "src/public/pic_articles/image612.png",
     "name": "halawa pistache al-durra 700",
     "reference": 13813,
@@ -6121,7 +6121,7 @@
   },
   {
     "id": 613,
-    "category": "lait en poudre",
+    "category": "lait_en_poudre",
     "image": "src/public/pic_articles/image613.png",
     "name": "durra sahlab (flavored drink powder) 200g (1*12)",
     "reference": 13814,
@@ -6131,7 +6131,7 @@
   },
   {
     "id": 614,
-    "category": "lait en poudre",
+    "category": "lait_en_poudre",
     "image": "src/public/pic_articles/image614.png",
     "name": "durra sahlab (flavored drink powder) 200g (1*12)",
     "reference": 13814,
@@ -6221,7 +6221,7 @@
   },
   {
     "id": 623,
-    "category": "produits laitiers",
+    "category": "produits_laitiers",
     "image": "src/public/pic_articles/image623.png",
     "name": "jameed nazila 550g",
     "reference": 13820,
@@ -6231,7 +6231,7 @@
   },
   {
     "id": 624,
-    "category": "produits laitiers",
+    "category": "produits_laitiers",
     "image": "src/public/pic_articles/image624.png",
     "name": "jameed nazila 550g",
     "reference": 13820,
@@ -6331,7 +6331,7 @@
   },
   {
     "id": 634,
-    "category": "produits laitiers",
+    "category": "produits_laitiers",
     "image": "src/public/pic_articles/image634.png",
     "name": "kiri smeerkaas 40x100gr",
     "reference": 13839,
@@ -6341,7 +6341,7 @@
   },
   {
     "id": 635,
-    "category": "produits laitiers",
+    "category": "produits_laitiers",
     "image": "src/public/pic_articles/image635.png",
     "name": "kiri smeerkaas 40x100gr",
     "reference": 13839,
@@ -6351,7 +6351,7 @@
   },
   {
     "id": 636,
-    "category": "produits laitiers",
+    "category": "produits_laitiers",
     "image": "src/public/pic_articles/image636.png",
     "name": "Zine foul irak 12x800gr",
     "reference": 13841,
@@ -6361,7 +6361,7 @@
   },
   {
     "id": 637,
-    "category": "produits laitiers",
+    "category": "produits_laitiers",
     "image": "src/public/pic_articles/image637.png",
     "name": "Zine foul irak 12x800gr",
     "reference": 13841,
@@ -6371,7 +6371,7 @@
   },
   {
     "id": 638,
-    "category": "produits laitiers",
+    "category": "produits_laitiers",
     "image": "src/public/pic_articles/image638.png",
     "name": "Zine foul irak 24x400gr",
     "reference": 13842,
@@ -6381,7 +6381,7 @@
   },
   {
     "id": 639,
-    "category": "produits laitiers",
+    "category": "produits_laitiers",
     "image": "src/public/pic_articles/image639.png",
     "name": "shahia Thon 48*160g",
     "reference": 13852,
@@ -6391,7 +6391,7 @@
   },
   {
     "id": 640,
-    "category": "produits laitiers",
+    "category": "produits_laitiers",
     "image": "src/public/pic_articles/image640.png",
     "name": "shahia Thon au piment 48*160g",
     "reference": 13853,
@@ -6401,7 +6401,7 @@
   },
   {
     "id": 641,
-    "category": "produits laitiers",
+    "category": "produits_laitiers",
     "image": "src/public/pic_articles/image641.png",
     "name": "shahia Thon au piment 48*160g",
     "reference": 13853,
@@ -6411,7 +6411,7 @@
   },
   {
     "id": 642,
-    "category": "produits laitiers",
+    "category": "produits_laitiers",
     "image": "src/public/pic_articles/image642.png",
     "name": "safina sardines 50*125g",
     "reference": 13854,
@@ -6421,7 +6421,7 @@
   },
   {
     "id": 643,
-    "category": "produits laitiers",
+    "category": "produits_laitiers",
     "image": "src/public/pic_articles/image643.png",
     "name": "safina sardines 50*125g",
     "reference": 13854,
@@ -6431,7 +6431,7 @@
   },
   {
     "id": 644,
-    "category": "produits laitiers",
+    "category": "produits_laitiers",
     "image": "src/public/pic_articles/image644.png",
     "name": "durra sauce Tomate concentree 800g*12p",
     "reference": 13855,
@@ -6441,7 +6441,7 @@
   },
   {
     "id": 645,
-    "category": "produits laitiers",
+    "category": "produits_laitiers",
     "image": "src/public/pic_articles/image645.png",
     "name": "durra sauce tomate concentree 650g*12p",
     "reference": 13856,
@@ -6451,7 +6451,7 @@
   },
   {
     "id": 646,
-    "category": "produits laitiers",
+    "category": "produits_laitiers",
     "image": "src/public/pic_articles/image646.png",
     "name": "maggi bouillon cube 24*60*10gr",
     "reference": 13863,
@@ -6461,7 +6461,7 @@
   },
   {
     "id": 647,
-    "category": "produits laitiers",
+    "category": "produits_laitiers",
     "image": "src/public/pic_articles/image647.png",
     "name": "maggi bouillon cube 24*60*10gr",
     "reference": 13863,
@@ -6471,7 +6471,7 @@
   },
   {
     "id": 648,
-    "category": "produits laitiers",
+    "category": "produits_laitiers",
     "image": "src/public/pic_articles/image648.png",
     "name": "sauce piquante rana 176 ml /24/",
     "reference": 13864,
@@ -6481,7 +6481,7 @@
   },
   {
     "id": 649,
-    "category": "produits laitiers",
+    "category": "produits_laitiers",
     "image": "src/public/pic_articles/image649.png",
     "name": "sauce piquante rana 88ml /36/",
     "reference": 13865,
@@ -6491,7 +6491,7 @@
   },
   {
     "id": 650,
-    "category": "produits laitiers",
+    "category": "produits_laitiers",
     "image": "src/public/pic_articles/image650.png",
     "name": "monte Verde feves en saumure 400gr*24",
     "reference": 13866,
@@ -6501,7 +6501,7 @@
   },
   {
     "id": 651,
-    "category": "produits laitiers",
+    "category": "produits_laitiers",
     "image": "src/public/pic_articles/image651.png",
     "name": "monte Verde feves en saumure 400gr*24",
     "reference": 13866,
@@ -6511,7 +6511,7 @@
   },
   {
     "id": 652,
-    "category": "produits laitiers",
+    "category": "produits_laitiers",
     "image": "src/public/pic_articles/image652.png",
     "name": "monte Verde aubergines farcies makdous 600gr*12",
     "reference": 13867,
@@ -6521,7 +6521,7 @@
   },
   {
     "id": 653,
-    "category": "produits laitiers",
+    "category": "produits_laitiers",
     "image": "src/public/pic_articles/image653.png",
     "name": "monte Verde aubergines farcies makdous 600gr*12",
     "reference": 13867,
@@ -6531,7 +6531,7 @@
   },
   {
     "id": 654,
-    "category": "produits laitiers",
+    "category": "produits_laitiers",
     "image": "src/public/pic_articles/image654.png",
     "name": "monte Verde feuilles de Vignes yalanji 400gr*24",
     "reference": 13868,
@@ -6541,7 +6541,7 @@
   },
   {
     "id": 655,
-    "category": "produits laitiers",
+    "category": "produits_laitiers",
     "image": "src/public/pic_articles/image655.png",
     "name": "monte Verde pois chiches en saumure 400gr*24",
     "reference": 13869,
@@ -6551,7 +6551,7 @@
   },
   {
     "id": 656,
-    "category": "produits laitiers",
+    "category": "produits_laitiers",
     "image": "src/public/pic_articles/image656.png",
     "name": "monte Verde pois chiches en saumure 400gr*24",
     "reference": 13869,
@@ -6561,7 +6561,7 @@
   },
   {
     "id": 657,
-    "category": "produits laitiers",
+    "category": "produits_laitiers",
     "image": "src/public/pic_articles/image657.png",
     "name": "monte Verde feves et pois chiches en saumure 400gr*24",
     "reference": 13870,
@@ -6571,7 +6571,7 @@
   },
   {
     "id": 658,
-    "category": "produits laitiers",
+    "category": "produits_laitiers",
     "image": "src/public/pic_articles/image658.png",
     "name": "monte Verde feves et pois chiches en saumure 400gr*24",
     "reference": 13870,
@@ -7373,7 +7373,7 @@
     "id": 738,
     "category": "confiserie",
     "image": "src/public/pic_articles/image738.png",
-    "name": "al nour melange fruits secs extra 300g*4*10",
+    "name": "al nour melange fruits_secs extra 300g*4*10",
     "reference": 1937,
     "stock": 110,
     "description": "",
@@ -7383,7 +7383,7 @@
     "id": 739,
     "category": "confiserie",
     "image": "src/public/pic_articles/image739.png",
-    "name": "al nour melange fruits secs extra 300g*4*10",
+    "name": "al nour melange fruits_secs extra 300g*4*10",
     "reference": 1937,
     "stock": 5,
     "description": "",
@@ -7393,7 +7393,7 @@
     "id": 740,
     "category": "confiserie",
     "image": "src/public/pic_articles/image740.png",
-    "name": "al nour fruits secs extra 300g *10*4",
+    "name": "al nour fruits_secs extra 300g *10*4",
     "reference": 1938,
     "stock": 1,
     "description": "",
@@ -7403,7 +7403,7 @@
     "id": 741,
     "category": "confiserie",
     "image": "src/public/pic_articles/image741.png",
-    "name": "al nour fruits secs extra 300g *10*4",
+    "name": "al nour fruits_secs extra 300g *10*4",
     "reference": 1938,
     "stock": 2,
     "description": "",
@@ -7433,7 +7433,7 @@
     "id": 744,
     "category": "confiserie",
     "image": "src/public/pic_articles/image744.png",
-    "name": "al nour fruits secs regluar mix 300g*10*4",
+    "name": "al nour fruits_secs regluar mix 300g*10*4",
     "reference": 1940,
     "stock": 208,
     "description": "",
@@ -7443,7 +7443,7 @@
     "id": 745,
     "category": "confiserie",
     "image": "src/public/pic_articles/image745.png",
-    "name": "al nour fruits secs regluar mix 300g*10*4",
+    "name": "al nour fruits_secs regluar mix 300g*10*4",
     "reference": 1940,
     "stock": 5,
     "description": "",
@@ -7533,7 +7533,7 @@
     "id": 754,
     "category": "condiments_et_sauces",
     "image": "src/public/pic_articles/image754.png",
-    "name": "al nour fruits secs super extra 300g 4*10",
+    "name": "al nour fruits_secs super extra 300g 4*10",
     "reference": 1947,
     "stock": 113,
     "description": "",
@@ -7543,7 +7543,7 @@
     "id": 755,
     "category": "condiments_et_sauces",
     "image": "src/public/pic_articles/image755.png",
-    "name": "al nour fruits secs super extra 300g 4*10",
+    "name": "al nour fruits_secs super extra 300g 4*10",
     "reference": 1947,
     "stock": 4,
     "description": "",
@@ -7553,7 +7553,7 @@
     "id": 756,
     "category": "condiments_et_sauces",
     "image": "src/public/pic_articles/image756.png",
-    "name": "sama melange fruits secs acide 900g*8",
+    "name": "sama melange fruits_secs acide 900g*8",
     "reference": 1948,
     "stock": 56,
     "description": "",
@@ -7563,7 +7563,7 @@
     "id": 757,
     "category": "condiments_et_sauces",
     "image": "src/public/pic_articles/image757.png",
-    "name": "sama melange fruits secs acide 900g*8",
+    "name": "sama melange fruits_secs acide 900g*8",
     "reference": 1948,
     "stock": 8,
     "description": "",
@@ -7573,7 +7573,7 @@
     "id": 758,
     "category": "condiments_et_sauces",
     "image": "src/public/pic_articles/image758.png",
-    "name": "sama melange fruits secs grilles et fumes 900g*8",
+    "name": "sama melange fruits_secs grilles et fumes 900g*8",
     "reference": 1949,
     "stock": 94,
     "description": "",
@@ -7583,7 +7583,7 @@
     "id": 759,
     "category": "condiments_et_sauces",
     "image": "src/public/pic_articles/image759.png",
-    "name": "sama melange fruits secs grilles et fumes 900g*8",
+    "name": "sama melange fruits_secs grilles et fumes 900g*8",
     "reference": 1949,
     "stock": 18,
     "description": "",
@@ -7593,7 +7593,7 @@
     "id": 760,
     "category": "confiserie",
     "image": "src/public/pic_articles/image760.png",
-    "name": "sama melange fruits secs grilles et sales 900g*8",
+    "name": "sama melange fruits_secs grilles et sales 900g*8",
     "reference": 1950,
     "stock": 25,
     "description": "",
@@ -7603,7 +7603,7 @@
     "id": 761,
     "category": "condiments_et_sauces",
     "image": "src/public/pic_articles/image761.png",
-    "name": "sama melange fruits secs grilles et sales 900g*8",
+    "name": "sama melange fruits_secs grilles et sales 900g*8",
     "reference": 1950,
     "stock": 7,
     "description": "",
@@ -8651,7 +8651,7 @@
   },
   {
     "id": 866,
-    "category": "aromes",
+    "category": "aromess",
     "image": "src/public/pic_articles/image866.png",
     "name": "boisson energisante jack 500 ml",
     "reference": 2283,
@@ -8661,7 +8661,7 @@
   },
   {
     "id": 867,
-    "category": "aromes",
+    "category": "aromess",
     "image": "src/public/pic_articles/image867.png",
     "name": "boisson energisante jack risterler 250 ml (24)",
     "reference": 2284,
@@ -8671,7 +8671,7 @@
   },
   {
     "id": 868,
-    "category": "aromes",
+    "category": "aromess",
     "image": "src/public/pic_articles/image868.png",
     "name": "boisson energisante jack risterler 250 ml (24)",
     "reference": 2284,
@@ -8681,7 +8681,7 @@
   },
   {
     "id": 869,
-    "category": "aromes",
+    "category": "aromess",
     "image": "src/public/pic_articles/image869.png",
     "name": "Vimto bouteille 2 l",
     "reference": 2285,
@@ -8691,7 +8691,7 @@
   },
   {
     "id": 870,
-    "category": "aromes",
+    "category": "aromess",
     "image": "src/public/pic_articles/image870.png",
     "name": "jus squeeze 30g sachets *6",
     "reference": 2286,
@@ -8701,7 +8701,7 @@
   },
   {
     "id": 871,
-    "category": "aromes",
+    "category": "aromess",
     "image": "src/public/pic_articles/image871.png",
     "name": "jus squeeze 30g sachets *6",
     "reference": 2286,
@@ -8711,7 +8711,7 @@
   },
   {
     "id": 872,
-    "category": "aromes",
+    "category": "aromess",
     "image": "src/public/pic_articles/image872.png",
     "name": "souce ramzi enveloppe avec passoire 60",
     "reference": 2287,
@@ -8721,7 +8721,7 @@
   },
   {
     "id": 873,
-    "category": "aromes",
+    "category": "aromess",
     "image": "src/public/pic_articles/image873.png",
     "name": "arak sousse ramzi 1kg 30",
     "reference": 2288,
@@ -8731,7 +8731,7 @@
   },
   {
     "id": 874,
-    "category": "aromes",
+    "category": "aromess",
     "image": "src/public/pic_articles/image874.png",
     "name": "faymato original 330ml boete saudi 24",
     "reference": 2289,
@@ -8741,7 +8741,7 @@
   },
   {
     "id": 875,
-    "category": "aromes",
+    "category": "aromess",
     "image": "src/public/pic_articles/image875.png",
     "name": "original drink Wortel&orang12X800ml",
     "reference": 2290,
@@ -8751,7 +8751,7 @@
   },
   {
     "id": 876,
-    "category": "aromes",
+    "category": "aromess",
     "image": "src/public/pic_articles/image876.png",
     "name": "original drink mango 800ml12sT",
     "reference": 2291,
